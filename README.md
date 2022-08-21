@@ -11,4 +11,5 @@ El siguiente fragmento de código es parte la clase UserFactory que hereda de Fa
 
 #### Object-oriented style
 El siguiente fragmento de codigo es un controlador User el cual dependiendo de que funcion miembro usen hara uso de la logica implementado en los mismos.
-![image](https://user-images.githubusercontent.com/385316![9cd07299-2650-4483-962b-58765a0c0d03](https://user-images.githubusercontent.com/49467689/185772842-fb872891-5d7a-497b-9f95-9aac1a28482c.jpg)
+![9cd07299-2650-4483-962b-58765a0c0d03](https://user-images.githubusercontent.com/49467689/185772886-2a7788ae-b338-40d3-9ce0-e9eb84329fd4.jpg)
+
